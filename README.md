@@ -1,3 +1,3 @@
 # NomadCoders-KokoaClone
 
-아무말 아무말
+뭔가 의미가 있는 말
